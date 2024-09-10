@@ -1,0 +1,1 @@
+/*    All dashboards    https://discourse.metabase.com/t/metabase-metadata-sql/3688*/SELECT    rd.id,    rd.name,    rd.description,    rd.archivedFROM report_dashboard AS rd;

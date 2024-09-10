@@ -1,0 +1,1 @@
+/*    All questions    https://discourse.metabase.com/t/metabase-metadata-sql/3688*/SELECT    q.id,    q.name,    q.description,    q.archived,    q.display,    q.query_typeFROM report_card AS q;
